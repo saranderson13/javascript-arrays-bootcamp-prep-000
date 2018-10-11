@@ -34,7 +34,7 @@ function removeElementFromBeginningOfArray(array) {
   return array;
 }
 
-function destructivelyRemoveElementFromEndOArray(array) {
+function destructivelyRemoveElementFromEndOfArray(array) {
   array.pop();
   return array;
 }
